@@ -3,8 +3,10 @@ The 11th Editon of DevOps Kathmandu was themed on Logging. Yes, everything loggi
 
 ## Venue and Date
 Date: 26th April, 2020
-Meeting Link: https://us04web.zoom.us/j/71274086319
-Meetup Link: https://www.meetup.com/DevOps-Kathmandu/events/270160033/
+
+Zoom: https://us04web.zoom.us/j/71274086319
+
+Meetup: https://www.meetup.com/DevOps-Kathmandu/events/270160033/
 
 ## Topics covered about Logging:
 * Why we log?
@@ -19,6 +21,6 @@ Meetup Link: https://www.meetup.com/DevOps-Kathmandu/events/270160033/
 * Log dashboarding
 
 ## Speakers
-Milan Thapa
-Tara Prasad Gurung
-Raju Dawadi
+* Milan Thapa
+* Tara Prasad Gurung
+* Raju Dawadi
